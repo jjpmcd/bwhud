@@ -78,7 +78,7 @@
 		"wide"	 "636"
 		"tall"	 "468"
 
-		"MaxDeathNotices" "10"
+		"MaxDeathNotices" "12"
 		"IconScale"	  "0.35"
 		"LineHeight"	  "16"
 		"LineSpacing"	  "1"      //Increase this to around "2" for line spacing in the killfeed
