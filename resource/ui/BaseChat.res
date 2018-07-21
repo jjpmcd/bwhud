@@ -7,10 +7,10 @@
 		"visible" 		        "1"
 		"enabled" 		        "1"
 		"xpos"			          "2"
-		"ypos"			          "r198"
+		"ypos"			          "r228"
         "zpos"                    "-50"
 		"wide"	 		          "230"
-		"tall"	 		          "100"
+		"tall"	 		          "170"
 		"fgcolor"		"White"
 		"PaintBackgroundType"	"0"
 	}
