@@ -18,19 +18,19 @@
 		"fieldname"	"Crosshair"
         "textAlignment"	"center"
 		"xpos"		"0"
-		"ypos"		"-1"
+		"ypos"		"0"
 		"zpos"		"-200"
 		"wide"		"f0"
 		"tall"		"480"
         "enabled"	"1"
         
-        "visible"	"0"	//"1" to enable
+        "visible"	"1"	//"1" to enable
 		
 
-		"labeltext"	""              //Change this to use a different crosshair
+		"labeltext"	"a"              //Change this to use a different crosshair
                                      //You can see the list of crosshairs in yacrosshairs.png
         
-        "font"		"CrosshairAA"    //Use "CrosshairOL" for a crosshair with an outline
+        "font"		"CrosshairOL"    //Use "CrosshairOL" for a crosshair with an outline
                                      //or "CrosshairAA" for a smooth crosshair w/o an outline 
                                      
                                      //You can add "Small" or "Big" at the end to change the size
