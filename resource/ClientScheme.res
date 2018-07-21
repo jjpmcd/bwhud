@@ -84,7 +84,7 @@ Scheme
         "White"				"227 227 227 255"
         "Black"				"18 17 17 255"
         
-        "DarkGray"          "0 0 0 130"			//DX9: 0 0 0 210, DX8: 0 0 0 130
+        "DarkGray"          "0 0 0 210"			//DX9: 0 0 0 210, DX8: 0 0 0 130
         "DarkGraySolid"     "36 36 36 255"
         "Gray"              "154 142 142 255"
         "BrightGray"        "210 200 200 255"
